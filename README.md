@@ -2,6 +2,11 @@
 
 I'm Mladen Makivic,
 
+### :book: About Me:
+
+- 🖥 Full Stack Web Developer
+- 🎓 
+
 📫 How to reach me:
 
 

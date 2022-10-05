@@ -6,7 +6,7 @@ My name is Mladen Makivic, I'm Full Stack Software Developer. I'm from Bosnia an
 
 
 - 🖥 Full Stack Web Developer
-- 🎓 Graudated George Washington Bootcamp
+- 🎓 Graduated George Washington Bootcamp
 
 📫 How to reach me:
 

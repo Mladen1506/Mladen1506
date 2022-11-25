@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mladen Makivic, I'm Full Stack Software Developer. I'm from Bosnia and Herzegovina, living in United States. I have a passion for learning and sharing my knowledge. You can see what I am up to here [portfolio.com]([http://mladenmakivic.com/](https://mladenportfolio.netlify.app/))
+My name is Mladen Makivic, I'm Full Stack Software Developer. I'm from Bosnia and Herzegovina, living in United States. I have a passion for learning and sharing my knowledge. You can see what I am up to here [portfolio.com](https://mladenportfolio.netlify.app/))
 
 ### :book:  About Me:
 
